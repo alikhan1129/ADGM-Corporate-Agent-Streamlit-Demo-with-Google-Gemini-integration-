@@ -1,0 +1,24 @@
+ADGM Document Checklist for Company Incorporation:
+
+1. Articles of Association (AoA)
+   - Must specify jurisdiction as "Abu Dhabi Global Market (ADGM) Courts" (Article 6, ADGM Companies Regulations 2020)
+   - Must contain a signature block with name, title, and date (Article X)
+
+2. Memorandum of Association (MoA)
+   - Must align with AoA jurisdiction and signature requirements
+   - Must include company name, registered address, and share capital details
+
+3. Incorporation Application Form
+   - Must state the proposed company name
+   - Must include the registered office address
+   - Must specify the jurisdiction as ADGM Courts
+   - Must be signed by all required signatories
+
+4. UBO Declaration Form
+   - Must include the Ultimate Beneficial Owner's full name and details
+   - Must include the Director's name
+   - Must have a signature block with name, title, and date
+
+5. Register of Members and Directors
+   - Must include a complete list of members and directors with their details
+   - Must be kept up to date

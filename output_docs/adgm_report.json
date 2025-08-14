@@ -1,0 +1,46 @@
+{
+  "process": "Company Incorporation",
+  "documents_uploaded": 4,
+  "required_documents": 5,
+  "missing_documents": [
+    "UBO Declaration Form",
+    "Register of Members and Directors"
+  ],
+  "issues_found": [
+    {
+      "document": "Articles of Association",
+      "section": "Jurisdiction clause",
+      "issue": "Jurisdiction clause does not specify ADGM",
+      "severity": "High",
+      "suggestion": "Update jurisdiction to Abu Dhabi Global Market (ADGM) Courts."
+    },
+    {
+      "document": "Short Document",
+      "section": "Signatory section",
+      "issue": "Missing explicit signatory or signature block",
+      "severity": "Medium",
+      "suggestion": "Add signatory name, title and date."
+    },
+    {
+      "document": "Incorporation Application Form",
+      "section": "Jurisdiction clause",
+      "issue": "Jurisdiction clause does not specify ADGM",
+      "severity": "High",
+      "suggestion": "Update jurisdiction to Abu Dhabi Global Market (ADGM) Courts."
+    },
+    {
+      "document": "Incorporation Application Form",
+      "section": "Signatory section",
+      "issue": "Missing explicit signatory or signature block",
+      "severity": "Medium",
+      "suggestion": "Add signatory name, title and date."
+    },
+    {
+      "document": "Memorandum of Association",
+      "section": "Signatory section",
+      "issue": "Missing explicit signatory or signature block",
+      "severity": "Medium",
+      "suggestion": "Add signatory name, title and date."
+    }
+  ]
+}

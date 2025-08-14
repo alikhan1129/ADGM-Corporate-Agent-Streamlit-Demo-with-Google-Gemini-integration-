@@ -1,0 +1,14 @@
+Example Jurisdiction Clause:
+"This company is governed by and shall be subject to the exclusive jurisdiction of the Abu Dhabi Global Market (ADGM) Courts."
+
+Example Signature Block:
+Signed by:
+[Full Name]
+[Title]
+[Date]
+
+Example Registered Address Clause:
+"The registered office of the Company is situated at [Address], within the jurisdiction of the Abu Dhabi Global Market."
+
+Example Shareholder Recording Clause:
+"The company shall maintain a register of shareholders, including full names, addresses, and shareholding details, in compliance with ADGM Companies Regulations."
